@@ -10,7 +10,9 @@ Once symptoms are inputted into the system, it employs the trained SVM model to 
 
 ## Getting Started
 Prerequisites
+
 Python 3.x
+
 Training and testing datasets (provided in CSV format)
 ### Usage
 Run the ipynb file.
