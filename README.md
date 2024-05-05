@@ -16,8 +16,11 @@ Python 3.x
 Training and testing datasets (provided in CSV format)
 ### Usage
 load ipynb file,datasets,svc.pkl,label_encoder.pkl and appy.py file
+
 Run ipynb and appy.py file
+
 Enter symptoms separated by commas when prompted.
+
 View the predicted disease along with recommended medication, precautions, and diet.
 
 ### Example Usage
