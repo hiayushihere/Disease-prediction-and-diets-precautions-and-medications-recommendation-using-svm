@@ -15,11 +15,11 @@ Python 3.x
 
 Training and testing datasets (provided in CSV format)
 ### Usage
-Run the ipynb file.
-
+load ipynb file,datasets,svc.pkl,label_encoder.pkl and appy.py file
+Run ipynb and appy.py file
 Enter symptoms separated by commas when prompted.
-
 View the predicted disease along with recommended medication, precautions, and diet.
+
 ### Example Usage
 Enter the symptoms separated by commas: Muscle Pain, Headache, Nausea, High Fever, Sweating, Vomiting
 
@@ -27,6 +27,8 @@ Predicted Disease: Malaria
 Recommended Medication: Antimalarial drugs, Antipyretics, Antiemetic drugs, IV fluids, Blood transfusions
 Recommended Precautions: Consult nearest hospital, avoid oily food, avoid non veg food, keep mosquitos out
 Recommended Diet: Malaria Diet, Hydration, High-Calorie Diet, Soft and bland foods, Oral rehydration solutions
+### final result 
+![Screenshot 2024-05-05 163714](https://github.com/hiayushihere/Disease-prediction-and-diets-precautions-and-medications-recommendation-using-svm/assets/164556667/6bdb5e50-d96a-44aa-892e-cda9679f8991)
 
 
 
