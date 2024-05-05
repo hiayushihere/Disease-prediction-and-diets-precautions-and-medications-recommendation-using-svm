@@ -17,7 +17,7 @@ Training and testing datasets (provided in CSV format)
 ### Usage
 load ipynb file,datasets,svc.pkl,label_encoder.pkl and appy.py file
 
-Run ipynb and appy.py file
+Run ipynb and appy.py file using 'streamlit run appy.py' command on terminal.
 
 Enter symptoms separated by commas when prompted.
 
